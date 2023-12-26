@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hK5yl5A4oednqZYaLTROuIqYN7sYuAsoRPvdZCqRxetGxsjHiethtwH8oDk9TuruSoi4AkcAnNxJlyry6s3pCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emira\\Desktop\\Memory\\Memory.ApiWebUI\\Memory.ApiWebUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emira\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
